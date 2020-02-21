@@ -17,10 +17,10 @@ For depletion code, please check codes in Coupling_depletion
 
 Completed:
 
-    (a)Neutronics calculation 
-    (b)Temperature calculation in solid area
+    (a)Neutron transport simulation
+    (b)Thermal diffusion simulation 
     (c)3D-Modeling
-    (d)Burn-up calculation
+    (d)Depletion calculation
 
 To do:
 
